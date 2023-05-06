@@ -5,9 +5,15 @@
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/cibernox/ember-power-select.git"
+  },
   "license": "MIT",
-  "author": "",
+  "author": {
+    "name": "Adam Woźny",
+    "email": "wozny1989@gmail.com"
+  },
   "directories": {
     "doc": "doc",
     "test": "tests"
